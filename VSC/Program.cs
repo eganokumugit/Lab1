@@ -115,4 +115,4 @@ static string CheckSwitch(int[] values) => values switch
   [..] => "Any items in any order.",
 };
 
-
+Console.WriteLine("Done With Task 7.");
